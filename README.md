@@ -1,1 +1,1 @@
-# MambaIC
+# ICMamba
