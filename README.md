@@ -10,7 +10,7 @@ This is official repo for ICMamba.
 Please refer to [VMamba](https://github.com/MzeroMiko/VMamba).
 
 #### step2: Prepraring datasets
-Download FLMS and FCDB dataset. Please refer [this](https://github.com/bcmi/Awesome-Aesthetic-Evaluation-and-Cropping) repo.
+Download FLMS and FCDB dataset. Please refer to [this](https://github.com/bcmi/Awesome-Aesthetic-Evaluation-and-Cropping). Then transform the labels format to YOLO style ($x_{center,norm}, y_{center,norm}, w_{norm}, h_{norm}$).
 
 ### Acknowledgement
 The authors thank the following awesome repos: [VMamba](https://github.com/MzeroMiko/VMamba), [Awesome Aesthetic Evaluation and Cropping](https://github.com/bcmi/Awesome-Aesthetic-Evaluation-and-Cropping).
